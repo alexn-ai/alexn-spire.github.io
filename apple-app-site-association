@@ -5,7 +5,15 @@
       {
         "appID": "H3Z22FN57J.com.augustineinstitute.formed",
         "paths": [
-          "*"
+          "/study/*",
+          "/study/*/lesson/*",
+          "/watch/*",
+          "/listen/*",
+          "/read/*",
+          "/study",
+          "/watch",
+          "/listen",
+          "/read"
         ]
       }
     ]
